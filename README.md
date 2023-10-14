@@ -7,7 +7,7 @@ This bot send reminders of free epic games to a discord channel once a week
 * Download appropriate version of [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/) and place in PATH
 * Clone the repo `git clone https://github.com/kneelesh48/epic-games-reminder.git`
 * Install required packages `pip install -r requirements.txt`
-* Copy config.example.yml to config.yml and add Discord Webhook URL
+* Copy config.example.yml to config.yml `cp config.example.yml config.yml` and add Discord Webhook URL
 
 ### Steps to Run:
 * Execute `python3 main.py`
